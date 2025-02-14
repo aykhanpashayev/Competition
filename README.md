@@ -25,7 +25,7 @@ Before using these scripts, make sure you have:
 ## How to use the repository
 1. Clone the repository git clone https://github.com/aykhanpashayev/Linux_Administration_Scripts/
 2. Move to directory: cd Linux_Administration_Scripts/
-3. Make everything executable inside of directory: sudo chmod +x ./
+3. Make everything executable inside of directory: sudo chmod +x ./*
 4. Check Scripts in order to see how to run them
 
 ## Scripts
