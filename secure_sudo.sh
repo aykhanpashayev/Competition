@@ -1,6 +1,6 @@
 #!/bin/bash 
 # Script Name: secure_sudo.sh
-# Description: Checks for unauthorized sudo users and removes them.
+# Description: Checks for unauthorized sudo users and removes them modify the code define your own allowed users!.
 
 # Make sure the script is run as root.
 if [[ $EUID -ne 0 ]]; then
